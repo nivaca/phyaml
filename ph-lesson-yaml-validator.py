@@ -2,7 +2,7 @@
 """ Validates a Programming Historian lesson file (.md)
     against a YAML schema.
     Created by Riva Quiroga (riva.quiroga@uc.cl) and
-    Nicolas Vaughan (nivaca@fastmail.com), 2021. """
+    Nicolas Vaughan (nicolasvaughan@proton.me), 2021. """
 
 import os
 import re
